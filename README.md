@@ -1,2 +1,2 @@
 # CNG
-Mutual Information Estimation Across Degeneration States
+Mutual Information Estimation of Retinal Ganglion Cells Across Degeneration States
